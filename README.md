@@ -9,7 +9,7 @@ All data shown in the paper figures, processed into .csv files, are in the folde
 The `2024_paper` folder contains all the code for data analysis and figure generation for the 2024 paper "Spin Squeezing with Magnetic Dipoles".
 
 `ProcessLogFiles.ipnyb` processes the raw scan files into `data/.
-The main analysis is found in `Analysis.ipnyb`. This uses the processed scan data stored in `data/`.
+The main analysis is found in `Analysis.ipnyb`. This uses the processed scan data stored in `data/`, and processes the data, saving it in `final_data` and producing figures.
 
 There is also some additional data in `meanfielddata/`, which is used for the mean field shearing plots in Figure 2. There are two datasets:
 - 100 ms mean-field shearing, from scan #145 of May 6, 2023 (experimental data and DTWA)
