@@ -1,0 +1,9 @@
+!pi_data/*.npy
+.ipynb_checkpoints/
+!meanfielddata/*.pickle
+!an_data/*.pickle
+!figures/*
+!final_figures/*
+!other/figures/*
+!dtwa/*
+!data/**/*
