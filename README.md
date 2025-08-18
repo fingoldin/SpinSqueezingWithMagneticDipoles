@@ -1,4 +1,4 @@
-# Data and analysis code for "Spin Squeezing with Magnetic Dipoles"
+# Data and analysis code for "Spin Squeezing with Magnetic Dipoles" (https://doi.org/10.1103/shj7-9kb3)
 
 Experimental data collected in this work consists primarily of atomic fluorescence images. Our experiment prepares erbium atoms in a single layer of a 3D optical lattice, and imaging is performed by scattering photons on the broad 401 nm transition of erbium. These photons are captured by an EMCCD camera, resulting in raw fluorescence images. We image each relevant atomic spin state separately, one after the other. These fluorescence images are processed into the spin observables that we report in this work's figures.
 
