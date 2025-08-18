@@ -6,9 +6,11 @@ Simulation data, plotted alongside experimental data in the figures, was generat
 
  Additional detail is provided in the manuscript, in particular the "Data Processing" section of the Appendices: https://doi.org/10.1103/shj7-9kb3.
 
-# Processed data
+# Data layout
 
-All data shown in the paper figures, processed into .csv files, are in the folder `final_data/`.
+In the Dryad repository, all data and analysis code is provided in `SpinSqueezingWithMagneticDipoles-main.zip`.
+
+All data shown in the paper figures, processed into .csv files, are in the folder `final_data/`, within the zip file.
 
 # Analysis layout
 
