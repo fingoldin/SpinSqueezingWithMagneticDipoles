@@ -1,11 +1,13 @@
-# Data and analysis code for "Spin Squeezing with Magnetic Dipoles" (https://doi.org/10.1103/shj7-9kb3)
+# Data and analysis code for "Spin Squeezing with Magnetic Dipoles"
+
+DOI: https://doi.org/10.1103/shj7-9kb3
 
 Experimental data collected in this work consists primarily of atomic fluorescence images. Our experiment prepares erbium atoms in a single layer of a 3D optical lattice, and imaging is performed by scattering photons on the broad 401 nm transition of erbium. These photons are captured by an EMCCD camera, resulting in raw fluorescence images. We image each relevant atomic spin state separately, one after the other. These fluorescence images are processed into the spin observables that we report in this work's figures.
 
 Simulation data, plotted alongside experimental data in the figures, was generated using a custom implementation of the Discrete Truncated Wigner Approximation (DTWA). It is stored in a binary format in the folder dtwa/, and can be accessed with our analysis code (described below).
 
- Additional detail is provided in the manuscript, in particular the "Data Processing" section of the Appendices: https://doi.org/10.1103/shj7-9kb3.
-
+ Additional detail is provided in the manuscript, in particular the "Data Processing" section of the Appendices.
+ 
 # Data layout
 
 In the Dryad repository, all data and analysis code is provided in `SpinSqueezingWithMagneticDipoles-main.zip`.
