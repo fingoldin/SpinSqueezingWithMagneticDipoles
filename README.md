@@ -1,4 +1,4 @@
-# Data and analysis code for "Spin Squeezing with Magnetic Dipoles"
+# Data and analysis code for "Spin Squeezing with Itinerant Magnetic Dipoles"
 
 DOI: https://doi.org/10.1103/shj7-9kb3
 
@@ -9,8 +9,6 @@ Simulation data, plotted alongside experimental data in the figures, was generat
  Additional detail is provided in the manuscript, in particular the "Data Processing" section of the Appendices.
  
 # Data layout
-
-In the Dryad repository, all data and analysis code is provided in `SpinSqueezingWithMagneticDipoles-main.zip`.
 
 All data shown in the paper figures, processed into .csv files, are in the folder `final_data/`, within the zip file.
 
